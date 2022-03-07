@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "This resource pack hides foliage and flowers slightly increasing game performance.",
+        "name": "No-Foliage+",
+        "uuid": "986d1aea-9d05-11ec-b909-0242ac120002",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 18, 0 ]
+    },
+    "modules": [
+        {
+            "description": "This resource pack hides foliage and flowers slightly increasing game performance.",
+            "type": "resources",
+            "uuid": "986d1f68-9d05-11ec-b909-0242ac120002",
+            "version": [1, 0, 0]
+        }
+    ]
+}
